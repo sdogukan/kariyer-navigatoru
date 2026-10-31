@@ -1,10 +1,10 @@
-# Career Navigator
+# Kariyer Navigatörü
 
-Life Navigator düzeninin **Kariyer** alanı: **kimlik + iş + yön.**
+Hayat Navigatörü düzeninin **Kariyer** alanı: **kimlik + iş + yön.**
 
 **Kendini bir ürün gibi ele al: kimsin, ne yapıyorsun, mesleki olarak nereye gidiyorsun.** Bir AI ajanıyla (Claude Code, Codex ya da `AGENTS.md` okuyan herhangi bir ajan) çalışan, dürüst bir yön bulma yöntemi.
 
-![Career Navigator nasıl çalışır](diyagram.svg)
+![Kariyer Navigatörü nasıl çalışır](diyagram.svg)
 
 ## Budur, bu değildir
 
@@ -15,7 +15,7 @@ Life Navigator düzeninin **Kariyer** alanı: **kimlik + iş + yön.**
 | Mesleki yön: 10 yıl / 3 yıl / 1 yıl / 90 gün | Terapi ya da motivasyon |
 | Öğrenme: terimler, dil | Profilini şişirmek |
 
-Fark: bir Life Navigator hayatın tamamını yönetir (orkestratör); Career Navigator onun tek bir alanıdır: mesleki kimlik, iş ve yön. Hayat yalnız 10 yıllık pusulada bir hayal olarak geçer, başka yerde değil.
+Fark: bir Hayat Navigatörü hayatın tamamını yönetir (orkestratör); Kariyer Navigatörü onun tek bir alanıdır: mesleki kimlik, iş ve yön. Hayat yalnız 10 yıllık pusulada bir hayal olarak geçer, başka yerde değil.
 
 ## Nasıl kullanılır
 
