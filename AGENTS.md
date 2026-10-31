@@ -29,7 +29,7 @@ Kullanıcının verdiklerini oku. On satırı geçmeden yaz: ne istiyor, neden �
 Kişiden kendini anlatmasını istemeden önce ne okuyabileceğini sor:
 
 - LinkedIn profili (bağlantı ya da metin), CV, kişisel site, blog, kitap, konuşmalar.
-- GitHub / GitLab / diğer kod barındırıcıları: hangi repolar, hangi kimlikler (insanlar genelde birkaç adla commit atar).
+- Üretilen iş: kod barındırıcıları (GitHub vb.), tasarım dosyaları, yazılar, portföy; hangi hesaplar, hangi kimlikler.
 - İş kayıtları: issue takipçileri, tasarım belgeleri, sunumlar, paylaşılabilir müşteri yazışmaları.
 - AI sohbet geçmişleri (Claude, Codex, ChatGPT dışa aktarımları): bunlar kişinin neye karar verdiğini, neyi sorguladığını, neyi reddettiğini ve neyi doğrulattığını gösterir. AI destekli işte katkının en güçlü kanıtıdır.
 - Uzun süredir kullandığı her şey: defter, görev yöneticisi, takvim.
@@ -79,7 +79,7 @@ Küçük kümeler hâlinde sor; dağınık, sesli cevapları kabul et; ilerlemed
 ├── 02-yon-ve-plan/    # 10 yıl pusula, 3 yıl resim, 1 yıl hedefler, 90 gün deney
 ├── 03-ornekler/       # daha ileri gitmiş insanlar ve şirketler, çerçeveler (kaynaklı)
 ├── 04-gorunurluk/     # anlatım kalıpları, LinkedIn taslakları, toplantı notları
-└── 05-sozluk/         # terimler: EN, TR, sade anlam, kendi işinden örnek; roller (CEO/CTO/CPO/COO...)
+└── 05-sozluk/         # terimler: EN, TR, sade anlam, kendi işinden örnek; alanının rolleri
 ```
 
 Her klasörün kendi `overview.md`'si neyi tuttuğunu söyler. `00-baslangic` içindeki sürüm dosyaları düzenlenmez; yenisi eklenir. Kök `overview.md`'deki zaman çizelgesi güncel tutulur.
@@ -110,13 +110,13 @@ Benzer yerden başlayıp güvenilirlik kurmuş 6–10 kişi (yazanlar, açıkta 
 
 ## Adım 7 — 04'ü yaz (görünürlük)
 
-- Anlatım kalıpları: 10 saniyelik cümle, "X ne demek" cevapları, 1 dakikalık sürüm, karşılaştığı kitleler için üçer cümle (ör. CEO / CTO / CPO), hazır cevaplı zor sorular; "bunu bilmiyorum, kontrol edip döneyim" kıdemli cümledir.
+- Anlatım kalıpları: 10 saniyelik cümle, "X ne demek" cevapları, 1 dakikalık sürüm, karşılaştığı kitleler için üçer cümle (ör. yönetici, teknik lider, müşteri; kişinin alanına göre), hazır cevaplı zor sorular; "bunu bilmiyorum, kontrol edip döneyim" kıdemli cümledir.
 - LinkedIn: başlık seçenekleri, Hakkında (profil dili + yerel dil), yayın öncesi kontrol listesi (unvan ortaklarca onaylı, rakamlar onaylı, zamanlar doğru, sesli okundu). Deneyimlerin yeniden yazımı sonra.
 - Toplantı notları: her toplantıdan sonra üç satır (ne konuşuldu / anlamadığım terim / bir dahaki sefere ne söylerdim).
 
 ## Adım 8 — Sözlük 05
 
-Kişinin rolünün gerektirdiği 30–50 terimle başla. Her biri: terim · Türkçe · sade anlam · kendi işinden örnek. Roller dosyası ekle (CEO, CTO, CPO, COO, CFO, CMO, CRO, Head of, PM/PO, tech lead, board, advisor, runway, pipeline). Kişi bir terimi kendi cümlesiyle yeniden yazınca "öğrenildi" sayılır.
+Kişinin rolünün gerektirdiği 30–50 terimle başla. Her biri: terim · Türkçe · sade anlam · kendi işinden örnek. Roller dosyası ekle: kişinin alanındaki unvanlar ve ne yaptıkları (teknolojide CEO/CTO/CPO gibi; başka alanda o alanın rolleri). Kişi bir terimi kendi cümlesiyle yeniden yazınca "öğrenildi" sayılır.
 
 ## Adım 9 — Günlük döngüyü işlet
 

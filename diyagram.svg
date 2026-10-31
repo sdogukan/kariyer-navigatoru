@@ -13,7 +13,7 @@
 <text x="140" y="126" text-anchor="middle" font-size="14" font-weight="600" fill="#2C2C2A">Kaynaklar</text>
 <g font-size="12" fill="#444441">
 <rect x="56" y="140" width="168" height="22" rx="6" fill="#FFFFFF" stroke="#D3D1C7"/><text x="140" y="155" text-anchor="middle">LinkedIn · CV · site</text>
-<rect x="56" y="168" width="168" height="22" rx="6" fill="#FFFFFF" stroke="#D3D1C7"/><text x="140" y="183" text-anchor="middle">GitHub · PR'lar · commit'ler</text>
+<rect x="56" y="168" width="168" height="22" rx="6" fill="#FFFFFF" stroke="#D3D1C7"/><text x="140" y="183" text-anchor="middle">Kod, belge, iş kayıtları</text>
 <rect x="56" y="196" width="168" height="22" rx="6" fill="#FFFFFF" stroke="#D3D1C7"/><text x="140" y="211" text-anchor="middle">AI sohbet geçmişleri</text>
 <rect x="56" y="224" width="168" height="18" rx="6" fill="#FFFFFF" stroke="#D3D1C7"/><text x="140" y="237" text-anchor="middle">Senin anlatımın (sesli olur)</text>
 </g>
@@ -58,7 +58,7 @@
 
 <rect x="560" y="316" width="190" height="56" rx="12" fill="#E1F5EE" stroke="#1D9E75" stroke-width="1"/>
 <text x="655" y="338" text-anchor="middle" font-size="14" font-weight="600" fill="#04342C">05 · Sözlük</text>
-<text x="655" y="357" text-anchor="middle" font-size="12" fill="#0F6E56">terimler · roller (CEO, CTO, CPO)</text>
+<text x="655" y="357" text-anchor="middle" font-size="12" fill="#0F6E56">terimler · alanının rolleri</text>
 </g>
 
 <path d="M490 200 L525 200 L525 128 L558 128" fill="none" stroke="#6B6A66" stroke-width="1.5" marker-end="url(#ar)"/>
@@ -75,11 +75,11 @@
 
 <!-- loop back -->
 <path d="M560 421 L395 421 L395 312" fill="none" stroke="#534AB7" stroke-width="1.8" stroke-dasharray="5 4" marker-end="url(#arp)"/>
-<text x="478" y="440" text-anchor="middle" font-size="12" fill="#534AB7">akşam "bitti" → ajan yarını yazar</text>
+<text x="455" y="412" text-anchor="middle" font-size="12" fill="#534AB7">akşam "bitti" → ajan yarını yazar</text>
 
 <g font-size="12" fill="#6B6A66" text-anchor="middle">
 <rect x="40" y="400" width="200" height="46" rx="10" fill="#FFFFFF" stroke="#D3D1C7"/>
 <text x="140" y="419">Ritim</text>
-<text x="140" y="437">Cuma kanıt defteri · 2 haftada taş · 90 günde yön</text>
+<text x="140" y="437">haftalık defter · 2 haftada taş · 90 günde yön</text>
 </g>
 </svg>

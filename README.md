@@ -37,7 +37,7 @@ Fark: bir Hayat Navigatörü hayatın tamamını yönetir (orkestratör); Kariye
 ```
 00-baslangic/     0.1, 0.2 ... (yeniden yazılmaz, eklenir)   01-ben-kimim/     geçmiş · beceriler · haftam · kimlik
 02-yon-ve-plan/   10 yıl · 3 yıl · 1 yıl · 90 gün            03-ornekler/      kişiler · şirketler · çerçeveler
-04-gorunurluk/    anlatım · LinkedIn · toplantılar           05-sozluk/        terimler · roller
+04-gorunurluk/    anlatım · LinkedIn · toplantılar           05-sozluk/        terimler · alanının rolleri
 overview.md · HARITA.md · TAKVIM.md · BUGUN.md · gunluk.md · YAPILACAKLAR.md
 ```
 
