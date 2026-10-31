@@ -1,4 +1,6 @@
-# Human Navigator
+# Career Navigator
+
+Life Navigator düzeninin **Career** (kariyer) alanı: kimlik + iş + yön. · The **Career** area of a Life Navigator setup: identity + work + direction.
 
 **Kendini bir ürün gibi ele al: kimsin, ne yapıyorsun, mesleki olarak nereye gidiyorsun.** Bir AI ajanıyla (Claude Code, Codex ya da AGENTS.md okuyan herhangi bir ajan) çalışan, dürüst bir yön bulma yöntemi.
 
@@ -26,7 +28,7 @@ flowchart LR
 | Mesleki yön: 10 yıl / 3 yıl / 1 yıl / 90 gün · professional direction | Terapi ya da motivasyon · therapy or motivation |
 | Öğrenme: terimler, dil · learning: terms, language | Profilini şişirmek · inflating your profile |
 
-Fark · The difference: bir "Life Navigator" hayatının tamamını planlar; Human Navigator yalnız mesleki kimliğini ve yönünü netleştirir. Hayat yalnız 10 yıllık pusulada bir hayal olarak geçer, başka yerde değil. · A life navigator plans your whole life; this one only clarifies your professional identity and direction. Life appears once, as the dream in the 10-year compass, and nowhere else.
+Fark · The difference: bir "Life Navigator" hayatının tamamını planlar; Career Navigator yalnız mesleki kimliğini ve yönünü netleştirir. Hayat yalnız 10 yıllık pusulada bir hayal olarak geçer, başka yerde değil. · A life navigator orchestrates your whole life; this one is a single area of it: professional identity, work and direction. Life appears once, as the dream in the 10-year compass, and nowhere else.
 
 ## Nasıl kullanılır · How to use
 

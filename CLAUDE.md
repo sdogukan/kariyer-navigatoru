@@ -1,4 +1,4 @@
-# Human Navigator
+# Career Navigator
 
 Read and follow `AGENTS.md` in this folder. It is the complete instruction set; this file only points to it.
 
