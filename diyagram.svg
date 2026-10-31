@@ -78,8 +78,9 @@
 <text x="455" y="412" text-anchor="middle" font-size="12" fill="#534AB7">akşam "bitti" → ajan yarını yazar</text>
 
 <g font-size="12" fill="#6B6A66" text-anchor="middle">
-<rect x="40" y="400" width="200" height="46" rx="10" fill="#FFFFFF" stroke="#D3D1C7"/>
-<text x="140" y="419">Ritim</text>
-<text x="140" y="437">haftalık defter · 2 haftada taş · 90 günde yön</text>
+<rect x="40" y="396" width="200" height="54" rx="10" fill="#FFFFFF" stroke="#D3D1C7"/>
+<text x="140" y="413">Ritim</text>
+<text x="140" y="429">haftalık defter · 2 haftada taş</text>
+<text x="140" y="444">90 günde yön yenilenir</text>
 </g>
 </svg>
