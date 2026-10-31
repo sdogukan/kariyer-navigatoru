@@ -4,18 +4,7 @@ Life Navigator düzeninin **Kariyer** alanı: **kimlik + iş + yön.**
 
 **Kendini bir ürün gibi ele al: kimsin, ne yapıyorsun, mesleki olarak nereye gidiyorsun.** Bir AI ajanıyla (Claude Code, Codex ya da `AGENTS.md` okuyan herhangi bir ajan) çalışan, dürüst bir yön bulma yöntemi.
 
-```mermaid
-flowchart LR
-    S["Kaynaklar<br/>LinkedIn, GitHub, sohbetler, CV"] --> A["Ajan<br/>AGENTS.md'yi okur"]
-    Q["Sorular<br/>geçmiş · hafta · enerji · yön"] --> A
-    A --> K["01 Ben kimim<br/>gerçek geçmiş, becerilerin adı, kimlik"]
-    A --> Y["02 Yön<br/>10 yıl · 3 yıl · 1 yıl · 90 gün"]
-    A --> G["04 Görünürlük<br/>anlatım kalıpları, LinkedIn taslağı"]
-    K --> T["BUGUN.md<br/>her sabah tek dosya"]
-    Y --> T
-    G --> T
-    T -- "akşam: bitti / takıldım" --> A
-```
+![Career Navigator nasıl çalışır](diyagram.svg)
 
 ## Budur, bu değildir
 
